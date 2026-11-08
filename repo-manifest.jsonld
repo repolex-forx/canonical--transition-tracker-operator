@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/canonical/transition-tracker-operator/commit/be0bd9af2c4857b822d3e5c6cb61a66463f75975",
       "git:hexsha": "be0bd9af2c4857b822d3e5c6cb61a66463f75975",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "rev61"
     },
     {
