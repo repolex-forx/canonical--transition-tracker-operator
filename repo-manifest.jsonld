@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/canonical/transition-tracker-operator/commit/be0bd9af2c4857b822d3e5c6cb61a66463f75975",
       "git:hexsha": "be0bd9af2c4857b822d3e5c6cb61a66463f75975",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "rev61"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "rev61",
+      "repolex:parsedAt": "2026-11-08T18:31:33.087116+00:00"
     },
     {
       "@id": "https://repolex.ai/r/canonical/transition-tracker-operator/commit/0fd9c1f7adb7445ca4ddd0e3c8313b0d4ad5d9de",
